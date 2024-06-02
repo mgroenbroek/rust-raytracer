@@ -1,1 +1,8 @@
+# Build results
 /target
+
+# macOS stuff
+**/.DS_Store
+
+# Sample output
+**/*.ppm
